@@ -1,0 +1,1 @@
+##  Shell Scripting - Init Files, Variables, and Expansions this repository contains shell scripts that demonstrate the use of initialization files, environment variables, local variables, and various shell expansions.
